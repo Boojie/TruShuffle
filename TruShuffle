@@ -1,0 +1,15 @@
+ import java.util.*;
+ public class TruShuffle
+ {
+        public static void main(String[] args)
+        {
+             Scanner kb = new Scanner(System.in); 
+             game(kb);
+        }
+        public static void music(Scanner kb)
+        {
+                                    
+        } 
+        
+  }
+        
